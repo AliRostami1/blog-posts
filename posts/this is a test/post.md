@@ -107,7 +107,7 @@ Sample text here...
 Syntax highlighting
 
 ```js
-var foo = function (bar) {
+var foo = function (bar) \{
 	return bar++;
 };
 
@@ -204,7 +204,7 @@ Term 2 with _inline markup_
 
 : Definition 2
 
-        { some code, part of Definition 2 }
+        \{ some code, part of Definition 2 }
 
     Third paragraph of definition 2.
 
